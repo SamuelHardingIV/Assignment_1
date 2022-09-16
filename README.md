@@ -24,4 +24,6 @@ https://github.com/SamuelHardingIV/Assignment_1/blob/6403b6d7354fda1a5f39a1a32a0
   We can draw two conclusion, first conclusion is that May & June months you have a ~66% success rate and secondly the winter months (Nov and Dec) have a ~48% success rate. 
   
   ## Outcomes Based on Goals ##
- 	Results from this chart shows $5k or less crowdfunding has above 50% Success while crowdfunding $20k to $30k has a higher failure percentage. Majority of the crowdfunding with $5,000 has ~70% success rate so Louise should stay between this range or seek mentorship from the higher end of the crowdfunding success pool.
+  Results from this chart shows $5k or less crowdfunding has above 50% Success while crowdfunding $20k to $30k has a higher failure percentage. Majority of the crowdfunding with $5,000 has ~70% success rate so Louise should stay between this range or seek mentorship from the higher end of the crowdfunding success pool.
+  
+  
