@@ -15,3 +15,6 @@ https://github.com/SamuelHardingIV/Assignment_1/blob/6d6d53deb07538c01e64f23d889
   In the chart, goals range from $20,000 below and $30k to $50k has a higher success percentage. Louis should look for a mentor in the $30k to %50k bracket and pick their brains. Your analytic team can have does names to you by the COB. See Chart below:
   
   
+Outcomes_Based_on_Goals.png
+https://github.com/SamuelHardingIV/Assignment_1/blob/6403b6d7354fda1a5f39a1a32a00bfaaf20733b8/Outcomes_Based_on_Goals.png
+
