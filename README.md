@@ -5,6 +5,6 @@
 ## Analysis and Challenges ##
   I performed my analysis based on the dataset provided with high emphasis on Country, Successful Goals, Failed Goals, Canceled Goals and Categories to get a high-level view of the dataset. Challenges encountered formatted the date from timestamp, breakdown outcomes based on goals chart data and saving this work. I was able to overcome my challenges by googling and YouTube videos.  
   
- # Outcome Based on Launch Date #
+ ### Outcome Based on Launch Date ###
   In this chart, we see that May and June months are more successful in the “Theater” category. Louise should target these two months which would give her a ~70% success rate. See Chart below:
   
