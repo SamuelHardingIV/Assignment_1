@@ -8,3 +8,4 @@
  ### Outcome Based on Launch Date ###
   In this chart, we see that May and June months are more successful in the “Theater” category. Louise should target these two months which would give her a ~70% success rate. See Chart below:
   
+Outcomes Based on Launch Date.png
